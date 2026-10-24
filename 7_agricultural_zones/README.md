@@ -6,4 +6,4 @@
 | [Statistical Audit](./3_statistical_audit/README.md) | 🟢 ACTIVE | Findings Report |
 | [Classification DSS](./5_classification_dss/README.md) | 🟢 ACTIVE | Operations Manual |
 | [Model Selection](./6_model_selection/README.md) | 🟢 ACTIVE  | Decision Records (ADRs) |
-| [Agricultural Zones](./7_agricultural_zones/README.md) | 🔴 Planned | Agricultural Atlas |
+| [Agricultural Zones](./7_agricultural_zones/README.md) | 🟢 ACTIVE | Agricultural Atlas |
