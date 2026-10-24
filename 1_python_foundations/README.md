@@ -1,7 +1,7 @@
 | Module | Status | Primary Deliverable |
 | :--- | :-: | :--- |
 | [Python Foundations](./1_python_foundations/README.md) | 🟢 ACTIVE | Case Study |
-| [OOP & Analysis](./2_oop_and_analysis/README.md) | 🟢 ACTIVE | Engineering Report |
+| [OOP & Analysis](./2_oop_and_analysis/README.md) | 🔴 Planned | Engineering Report |
 | [Statistical Audit](./3_statistical_audit/README.md) | 🔴 Planned | Findings Report |
 | [Regression Modeling](./4_regression_modeling/README.md) | 🔴 Planned | Model Card & Dev Log |
 | [Classification DSS](./5_classification_dss/README.md) | 🔴 Planned | Operations Manual |
